@@ -6,6 +6,7 @@ I can help you develop an application or website starting from doing the estimat
 
 As well I'm A co-founder of IT Resistance. We are a Full-Cycle Product Development Studio
 IT Resistance's focus on driving growth value delivery to end-users via a product mindset and transparent approach.
+
 [![It Resistance Badge](https://static.wixstatic.com/media/c7ef60_96ba9625535942fbb88368a07029ec6b~mv2.png/v1/fill/w_51,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Vectorwhite_logo.png)](https://www.itresistance.com/)
 
 Feel free to connect with me here:
