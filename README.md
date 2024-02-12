@@ -3,6 +3,7 @@
 I am Volodymyr Tsiluiko, people call me Vova, a seasoned CTO with over 10 years of experience in the tech industry. 
 With a strong background in both development and management, I've spent the majority of my career as a Back-End Engineer and Team Leader and have rich experience in these areas.
 I can help you develop an application or website starting from doing the estimation up to the delivery and maintenance.
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vova_Tsiluko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/volodymyr-tsiluiko/)](https://www.linkedin.com/in/volodymyr-tsiluiko/)
