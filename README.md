@@ -10,6 +10,7 @@ Feel free to connect with me here:
 [![Calenly Badge](https://img.shields.io/badge/-Book_A_Call-03a57a?style=flat-square&labelColor=000000&logo=Calendly&logoColor=blue&link=https://calendly.com/itresistance-vova/30min
 )](https://calendly.com/itresistance-vova/30min)
 [![Gmail Badge](https://img.shields.io/badge/-vova@itresistance.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vova@itresistance.com)](mailto:vova@itresistance.com)
+[![It Resistance Badge](https://static.wixstatic.com/media/c7ef60_96ba9625535942fbb88368a07029ec6b~mv2.png/v1/fill/w_51,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Vectorwhite_logo.png)](https://www.itresistance.com/)
 
 ## ⚡ Technologies
 
