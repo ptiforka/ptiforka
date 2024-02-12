@@ -4,7 +4,7 @@ I am Volodymyr Tsiluiko, people call me Vova, a seasoned CTO with over 10 years 
 With a strong background in both development and management, I've spent the majority of my career as a Back-End Engineer and Team Leader and have rich experience in these areas.
 I can help you develop an application or website starting from doing the estimation up to the delivery and maintenance.
 
-As well I'm A co-founder of IT Resistance. We are a Full-Cycle Product Development Studio
+As well I'm a co-founder of IT Resistance. We are a Full-Cycle Product Development Studio
 IT Resistance's focus on driving growth value delivery to end-users via a product mindset and transparent approach.
 
 [![It Resistance Badge](https://static.wixstatic.com/media/c7ef60_96ba9625535942fbb88368a07029ec6b~mv2.png/v1/fill/w_51,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Vectorwhite_logo.png)](https://www.itresistance.com/)
